@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there 👋, I'm Bhavin Kapadiya<br><br>### 🚀 Tech Partner & Automation Architect<br><br>I build scalable automated infrastructure and custom backend systems for fast-growing businesses. My focus is entirely on business growth, operational efficiency, and eliminating manual bottlenecks—not just writing code for the sake of it. <br><br>If a business process is breaking under scale, I architect the data pipelines, API bridges, and automated workflows to fix it.<br><br>### 🧠 Operating Philosophy<br>- **Tech Partner, Not Just a Coder:** I focus on business outcomes, strategic alignment, and immediate ROI.<br>- **Builder Mindset:** I think in systems, data flows, operational dashboards, and automated fail-safes.<br>- **Execution-Oriented:** I prioritize speed, practical implementation, and shipping solutions over academically perfect, drawn-out processes. <br>- **Business Over Perfection:** Systems must be robust and error-resilient, but they also must deploy quickly to solve immediate operational fires.<br><br>### 🛠️ Core Infrastructure & Stack<br>- **Automation Engines:** `n8n` (Cloud & Self-Hosted), `Make`, `Zapier`<br>- **Backend Foundation:** `Node.js`, `Express.js`, `JavaScript`<br>- **Data & APIs:** `RESTful APIs`, `Webhooks`, `JSON Parsing`, `GraphQL`<br>- **Databases:** `MongoDB`, `PostgreSQL`<br>- **AI Integration:** `OpenAI API`, `OCR Pipelines`, `Custom AI Agents`<br><br>### ⚡ What I'm Currently Building<br>- Custom Node.js wrappers for legacy systems lacking native API support.<br>- Complex n8n workflows handling high-volume e-commerce inventory syncs.<br>- AI-driven automated document extraction and database injection pipelines.<br><br>### 📫 Let's Map Out Your Systems<br>- **Connect with me on LinkedIn:** [Insert LinkedIn URL]<br>- **Portfolio & Case Studies:** [Insert Website URL]<br>- **Book a Scoping Call:** [Insert Calendly/Cal.com URL]<br><br>---<br>*"I don't just deliver ideas; I deliver implementation."*
 
-<!--
-**BhavinKapadiya/BhavinKapadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavinkapadiya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kapadiyabhavin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bhavin–Kapadiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavinkapadiya8@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BhavinKapadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=BhavinKapadiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BhavinKapadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BhavinKapadiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BhavinKapadiya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=BhavinKapadiya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
